@@ -1,0 +1,22 @@
+.Video {
+    width: 1010px;
+    height: 425px;
+    justify-content: center;
+    
+
+}
+
+.new
+{
+    margin-bottom:20px;
+}
+
+#contact iframe
+{
+    width:100%;
+}
+
+.page-header
+{
+color: rgb(255, 0, 0);
+}
